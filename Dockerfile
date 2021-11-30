@@ -59,3 +59,5 @@ RUN pip install autograder_gui
 # This will be replaced with "CMD autograder_gui" when autograder can be successfully lanched
 # from inside the container.
 CMD /bin/bash
+
+# All further development on this branch has been halted pending updates to autograder-gui.
