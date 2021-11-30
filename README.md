@@ -75,3 +75,5 @@ to force close.
 
 You may type the following command to close the container:
     exit
+
+#All further development on this branch has been halted pending updates to autograder-gui.
